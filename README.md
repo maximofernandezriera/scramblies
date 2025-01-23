@@ -7,7 +7,7 @@
 ### Ejemplo
 Si s2 = "aabb", s1 debe tener al menos 2 'a' y 2 'b' (sin importar el orden). Si s1 tiene menos de alguno, retornas false.
 
-Las claveS del kata:
+Las claves del kata:
 
 - Longitud: Si len(s2) > len(s1), automáticamente false.
 
